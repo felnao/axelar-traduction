@@ -1,4 +1,6 @@
 # axelar-traduction
 
 traduction v3 du whitepaper Axelar.
-Merci à Zundel.
+
+Merci à Zundel et Avastro.
+Felnao
